@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on different ML models but occassionaly dabble with JS
 - 🌱 I’m currently learning ML, Statistical Computing, Visualization 
-<!-- - 👯 I’m looking to collaborate on  -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ML, Web Dev, Python, R
 - 📫 How to reach me: bakharia!@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Penguins evolved to fly underwater
+<!-- - 👯 I’m looking to collaborate on  -->
+<!-- - 🤔 I’m looking for help with ... -->
