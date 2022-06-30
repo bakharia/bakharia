@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently focussing on Data Science but I occassionaly dabble with JS
-- 🌱 I’m currently learning ML, Statistical Computing, Visualization 
 - 💬 Ask me about ML, Web Dev, Python, R
 - 📫 How to reach me: bakharia1@gmail.com 
 - 😄 Pronouns: He/Him
